@@ -72,8 +72,9 @@ socials:
   twitter_url: http://thesmitsteam.blogspot.com/#
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/Amy-Smits/Reviews/?scrnnm=Amy%20Smits
-  trulia_url: http://www.trulia.com/profile/amy-smits-broker-80435-302033/overview
+  # zillow_url: http://www.zillow.com/profile/Amy-Smits/Reviews/?scrnnm=Amy%20Smits
+  # trulia_url: http://www.trulia.com/profile/amy-smits-broker-80435-302033/overview
+  google_reviews_url: https://search.google.com/local/writereview?placeid=ChIJO1A2gZBeaocROnd8giRNjv4
   yelp_url:
   podcast_url:
 
